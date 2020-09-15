@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
       min_val = nil 
     min_ky = key 
   elsif 
-  min_val > value
+  min_val > number
   min_val = value
   min_ky = key
     end
