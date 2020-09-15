@@ -13,4 +13,5 @@ def key_for_min_value(name_hash)
   lowest_value = 0 
   lowet_key = nil 
   name_hash.each do |nut,number|
+    if number < lowest_value 
 end
