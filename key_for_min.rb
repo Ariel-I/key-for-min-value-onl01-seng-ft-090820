@@ -10,6 +10,6 @@ name_hash = {
 
 
 def key_for_min_value(name_hash)
-key_for_min_value = name_hash.each_key do |nut,number|
-  if 
+lowest value = 0 
+lowet key = nil 
 end
