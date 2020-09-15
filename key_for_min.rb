@@ -10,6 +10,6 @@ name_hash = {
 
 
 def key_for_min_value(name_hash)
-lowest value = 0 
-lowet key = nil 
+lowest_value = 0 
+lowet_key = nil 
 end
