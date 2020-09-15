@@ -15,7 +15,7 @@ def key_for_min_value(name_hash)
   name_hash.each do |nut,number|
     if number < min_val 
       min_val = number
-      min_ky = key 
+      min_ky = nut 
     end 
   end 
   min_ky
