@@ -13,5 +13,5 @@ def key_for_min_value(name_hash)
       min_ky = nut 
     end 
   end 
-  min_ky
+  return min_ky
 end
